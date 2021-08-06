@@ -1,11 +1,14 @@
 # Modelagem-curriculo
 Modelagem de um banco de dados para um sistema de gerenciamento de currículo<br>
 :coffee: Oferecimento: Site :link: <a title="CEPROIRR.COM.BR" href="https://www.ceproirr.com.br/" target="_blank">ceproirr.com.br</a> <img style="text-align: center;" src="https://www.ceproirr.com.br/themes/wc_ceproirr/images/favicon.png"><BR>
-<h2>Objetivo do Projeto:</h2>
-  <p>Criar uma modelagem de banco de dados para um sistema de gerencimento de currículo.</p>
-  <p>Popular o banco de dados.</p>
-  <p>Otimizar a modelagem.</p>
-  <p>Desenvolver a aplicação usando PHP, HTML, CSS e JS.</p>
+<h2>Objetivo do Projeto</h2>
+  <p>1 - Criar uma modelagem de banco de dados para um sistema de gerencimento de currículo.</p>
+  <p>2 - Popular o banco de dados.</p>
+  <p>3 - Realizar testes com consultas sql.</p>
+  <p>4 - Otimizar a modelagem.</p>
+  <p>5 - Desenvolver a aplicação usando PHP, HTML, CSS e JS.</p>
+  <p>6 - Realizar Testes na aplicação</p>
+  <p>7 - Publicar a aplicação na web.</p>
 <h2>1 - IDENTIFICAÇÃO DAS ENTIDADES :white_check_mark: </h2>
   <ul>
     <li>:man: USUÁRIO</li>
